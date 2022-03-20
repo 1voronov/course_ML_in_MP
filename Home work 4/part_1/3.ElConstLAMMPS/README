@@ -1,0 +1,10 @@
+The folder `LAMMPS/ElConst/` input:
+- the MLIP settings file (mlip.ini)
+- the additional files (in.elastic, displace.mod, init.mod, and potential.mod) needed to 
+calculate the elastic constants using the LAMMPS code with MTPs
+- the file read-ElasticConstants-create-file.py needed to retrieve the constants C11, C12, and C44
+- the fitted MTP (pot.mtp, should be copied to the folder `LAMMPS/ElConst/`)
+- the equilibrium configuration (relaxed.cfg, should be copied to the folder `LAMMPS/ElConst/`)
+
+The folder `LAMMPS` input:
+- the shell script elastic-constants.sh calculates the elastic constants C11, C12, and C44
