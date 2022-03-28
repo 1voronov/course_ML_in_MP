@@ -1,0 +1,10 @@
+((H/CN)*log(R))  corr=      0.5481
+((CN/H)/log(R))  corr=      0.5445
+((E/CN)/abs(C-H))  corr=      0.5372
+((CN/H)*(F+DS))  corr=      0.5300
+((CN/H)*(F+DB))  corr=      0.5297
+((CN/H)/(R)^3)  corr=      0.5279
+((E/ECN)/abs(C-H))  corr=      0.5278
+((ECN/H)/log(R))  corr=      0.5270
+abs((C+DB)-(H+DS))  corr=      0.5231
+((I/CN)/abs(C-H))  corr=      0.5213

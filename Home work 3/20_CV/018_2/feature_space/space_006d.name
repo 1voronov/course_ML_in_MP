@@ -1,0 +1,10 @@
+((L)^3/(H-C))  corr=      0.3975
+((F+I)/(H-C))  corr=      0.3560
+(exp(I)/(C-H))  corr=      0.3525
+((I+L)/exp(C))  corr=      0.3472
+((E)^3/(H-C))  corr=      0.3380
+((L)^2/(C-H))  corr=      0.3370
+((C*I)/(E*R))  corr=      0.3350
+((C*I)/E)  corr=      0.3336
+((C+DB)/(H-C))  corr=      0.3333
+((H+DB)/(H-C))  corr=      0.3333

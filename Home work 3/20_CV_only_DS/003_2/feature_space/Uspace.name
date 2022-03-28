@@ -1,0 +1,6 @@
+(log(R)/(R)^3)  corr=      0.3071
+exp((R)^3)  corr=      0.0552
+(log(R)/(R)^2)  corr=      0.1090
+((R)^2/log(R))  corr=      0.0019
+((R)^3)^3  corr=      0.0017
+(log(R))^3  corr=      0.0001

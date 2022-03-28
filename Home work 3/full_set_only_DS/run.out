@@ -1,0 +1,215 @@
+=========================================
+SLURM_JOB_ID = 13893
+SLURM_JOB_NODELIST = node20-79
+SLURM_CPUS_ON_NODE = 16
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 224037
+==========================================
+
+FCDI starts ...
+
+iteration:   1
+--------------------------------------------------------------------------------
+FC starts ...
+Total number of features in the space phi00:              1
+Total number of features in the space phi00:              1
+
+Generating phi01 ...
+
+Generating phi01 ...
+mpirank=    0  #generated =              5  #selected =              1  progress =  20.0%
+Number of newly generated features:               5
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:               5
+Total number of features in the space phi01:              6
+
+Generating phi02 ...
+
+Generating phi02 ...
+mpirank=    0  #generated =             20  #selected =              1  progress =  20.0%
+mpirank=    0  #generated =             36  #selected =              1  progress =  40.0%
+mpirank=    0  #generated =             51  #selected =              1  progress =  60.0%
+mpirank=    0  #generated =             61  #selected =              1  progress =  80.0%
+mpirank=    0  #generated =             70  #selected =              1  progress = 100.0%
+Total number of newly generated features:              70
+Total number of features in the space phi02:             76
+
+Final sure independence screening ...
+Size of the SIS-selected subspace from phi02:          1
+FC done!
+
+DI starts ...
+mpirank=    0    progress =  20.0%
+DI done!
+
+iteration:   2
+--------------------------------------------------------------------------------
+FC starts ...
+Total number of features in the space phi00:              1
+Total number of features in the space phi00:              1
+
+Generating phi01 ...
+
+Generating phi01 ...
+mpirank=    0  #generated =              5  #selected =              1  progress =  20.0%
+Number of newly generated features:               5
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:               5
+Total number of features in the space phi01:              6
+
+Generating phi02 ...
+
+Generating phi02 ...
+mpirank=    0  #generated =             20  #selected =              1  progress =  20.0%
+mpirank=    0  #generated =             36  #selected =              1  progress =  40.0%
+mpirank=    0  #generated =             51  #selected =              1  progress =  60.0%
+mpirank=    0  #generated =             61  #selected =              1  progress =  80.0%
+mpirank=    0  #generated =             70  #selected =              1  progress = 100.0%
+Total number of newly generated features:              70
+Total number of features in the space phi02:             76
+
+Final sure independence screening ...
+Size of the SIS-selected subspace from phi02:          1
+FC done!
+
+DI starts ...
+mpirank=    0    progress =  20.0%
+DI done!
+
+iteration:   3
+--------------------------------------------------------------------------------
+FC starts ...
+Total number of features in the space phi00:              1
+Total number of features in the space phi00:              1
+
+Generating phi01 ...
+
+Generating phi01 ...
+mpirank=    0  #generated =              5  #selected =              1  progress =  20.0%
+Number of newly generated features:               5
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:               5
+Total number of features in the space phi01:              6
+
+Generating phi02 ...
+
+Generating phi02 ...
+mpirank=    0  #generated =             20  #selected =              1  progress =  20.0%
+mpirank=    0  #generated =             36  #selected =              1  progress =  40.0%
+mpirank=    0  #generated =             51  #selected =              1  progress =  60.0%
+mpirank=    0  #generated =             61  #selected =              1  progress =  80.0%
+mpirank=    0  #generated =             70  #selected =              1  progress = 100.0%
+Total number of newly generated features:              70
+Total number of features in the space phi02:             76
+
+Final sure independence screening ...
+Size of the SIS-selected subspace from phi02:          1
+FC done!
+
+DI starts ...
+mpirank=    0    progress =  20.0%
+DI done!
+
+iteration:   4
+--------------------------------------------------------------------------------
+FC starts ...
+Total number of features in the space phi00:              1
+Total number of features in the space phi00:              1
+
+Generating phi01 ...
+
+Generating phi01 ...
+mpirank=    0  #generated =              5  #selected =              1  progress =  20.0%
+Number of newly generated features:               5
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:               5
+Total number of features in the space phi01:              6
+
+Generating phi02 ...
+
+Generating phi02 ...
+mpirank=    0  #generated =             20  #selected =              1  progress =  20.0%
+mpirank=    0  #generated =             36  #selected =              1  progress =  40.0%
+mpirank=    0  #generated =             51  #selected =              1  progress =  60.0%
+mpirank=    0  #generated =             61  #selected =              1  progress =  80.0%
+mpirank=    0  #generated =             70  #selected =              1  progress = 100.0%
+Total number of newly generated features:              70
+Total number of features in the space phi02:             76
+
+Final sure independence screening ...
+Size of the SIS-selected subspace from phi02:          1
+FC done!
+
+DI starts ...
+mpirank=    0    progress =  20.0%
+DI done!
+
+iteration:   5
+--------------------------------------------------------------------------------
+FC starts ...
+Total number of features in the space phi00:              1
+Total number of features in the space phi00:              1
+
+Generating phi01 ...
+
+Generating phi01 ...
+mpirank=    0  #generated =              5  #selected =              1  progress =  20.0%
+Number of newly generated features:               5
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:               5
+Total number of features in the space phi01:              6
+
+Generating phi02 ...
+
+Generating phi02 ...
+mpirank=    0  #generated =             20  #selected =              1  progress =  20.0%
+mpirank=    0  #generated =             36  #selected =              1  progress =  40.0%
+mpirank=    0  #generated =             51  #selected =              1  progress =  60.0%
+mpirank=    0  #generated =             61  #selected =              1  progress =  80.0%
+mpirank=    0  #generated =             70  #selected =              1  progress = 100.0%
+Total number of newly generated features:              70
+Total number of features in the space phi02:             76
+
+Final sure independence screening ...
+Size of the SIS-selected subspace from phi02:          1
+FC done!
+
+DI starts ...
+mpirank=    0    progress =  20.0%
+DI done!
+
+iteration:   6
+--------------------------------------------------------------------------------
+FC starts ...
+Total number of features in the space phi00:              1
+Total number of features in the space phi00:              1
+
+Generating phi01 ...
+
+Generating phi01 ...
+mpirank=    0  #generated =              5  #selected =              1  progress =  20.0%
+Number of newly generated features:               5
+Redundant check on the newly generated features ...
+Number of newly generated features after redundant check:               5
+Total number of features in the space phi01:              6
+
+Generating phi02 ...
+
+Generating phi02 ...
+mpirank=    0  #generated =             20  #selected =              1  progress =  20.0%
+mpirank=    0  #generated =             36  #selected =              1  progress =  40.0%
+mpirank=    0  #generated =             51  #selected =              1  progress =  60.0%
+mpirank=    0  #generated =             61  #selected =              1  progress =  80.0%
+mpirank=    0  #generated =             70  #selected =              1  progress = 100.0%
+Total number of newly generated features:              70
+Total number of features in the space phi02:             76
+
+Final sure independence screening ...
+Size of the SIS-selected subspace from phi02:          1
+FC done!
+
+DI starts ...
+mpirank=    0    progress =  20.0%
+DI done!
+
+FCDI done !

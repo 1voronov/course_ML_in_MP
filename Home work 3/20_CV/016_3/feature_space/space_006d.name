@@ -1,0 +1,10 @@
+((H)^2/(E*CN))  corr=      0.4647
+((H)^2/(E*ECN))  corr=      0.4457
+((DB-I)/(H)^2)  corr=      0.4367
+((DS-I)/(H)^2)  corr=      0.4343
+((C+F)*(H/C))  corr=      0.4317
+((F*H)*(H/C))  corr=      0.4286
+((H/E)/sqrt(CN))  corr=      0.4277
+((H/E)/cbrt(CN))  corr=      0.4269
+((H/E)/log(ECN))  corr=      0.4260
+((H/E)/log(CN))  corr=      0.4254

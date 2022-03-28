@@ -1,0 +1,10 @@
+((F*L)-(C)^2)  corr=      0.5478
+(exp(C)/(H-L))  corr=      0.5413
+((C*CN)*abs(C-L))  corr=      0.5359
+((C*ECN)*abs(C-L))  corr=      0.5282
+((E*CN)*abs(C-L))  corr=      0.5247
+((CN/R)*abs(C-L))  corr=      0.5194
+((C)^3*abs(C-L))  corr=      0.5142
+((H-L)/exp(C))  corr=      0.5136
+((E*ECN)*abs(C-L))  corr=      0.5125
+((C)^2*abs(C-L))  corr=      0.5123

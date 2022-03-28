@@ -1,0 +1,10 @@
+abs((C+H)-(F+DS))  corr=      0.4691
+((E/F)*abs(H-DS))  corr=      0.4675
+abs((C-F)-abs(H-DS))  corr=      0.4643
+((E*R)*log(R))  corr=      0.4589
+((R)^2*sqrt(E))  corr=      0.4542
+((E*R)*(R)^3)  corr=      0.4527
+(log(R)*sqrt(E))  corr=      0.4483
+abs((DS-H)-abs(C-F))  corr=      0.4479
+(E*(R)^3)  corr=      0.4457
+((E/F)*abs(H-DB))  corr=      0.4448

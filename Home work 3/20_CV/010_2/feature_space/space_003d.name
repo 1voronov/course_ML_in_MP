@@ -1,0 +1,10 @@
+((R/CN)/(H-L))  corr=      0.5028
+((R/ECN)/(H-L))  corr=      0.5018
+((F/CN)/(H-L))  corr=      0.4997
+((F/ECN)/(H-L))  corr=      0.4991
+((R/C)/(H-L))  corr=      0.4989
+((CN)^-1/(H-L))  corr=      0.4980
+((ECN)^-1/(H-L))  corr=      0.4972
+((C)^-1/(H-L))  corr=      0.4966
+((F/C)/(H-L))  corr=      0.4947
+(abs(L-DS)/(H-L))  corr=      0.4934

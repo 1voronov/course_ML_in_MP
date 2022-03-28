@@ -1,0 +1,10 @@
+((L)^3/exp(ECN))  corr=      0.4654
+((H+I)*(ECN/I))  corr=      0.4263
+((H/ECN)/(H+I))  corr=      0.4206
+((H*CN)+(I*ECN))  corr=      0.4176
+((I/ECN)/(H+I))  corr=      0.4158
+((DB-DS)/abs(C-L))  corr=      0.4123
+((H/I)/sqrt(ECN))  corr=      0.4110
+(abs(DB-DS)/abs(C-L))  corr=      0.4103
+((H)^2/(I*ECN))  corr=      0.4077
+((H/I)/log(ECN))  corr=      0.3998

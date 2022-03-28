@@ -1,0 +1,10 @@
+((L)^3*(L/DB))  corr=      0.3195
+((L)^3/(F*DB))  corr=      0.3185
+((F/DB)*exp(F))  corr=      0.3174
+(exp(I)*(DS/DB))  corr=      0.3167
+((I)^3*(DS/DB))  corr=      0.3166
+((C/DB)*exp(F))  corr=      0.3145
+((DS/DB)/(F)^2)  corr=      0.3132
+(exp(F)/(H*DB))  corr=      0.3131
+((L/DB)*abs(DB-DS))  corr=      0.3129
+(exp(F)/(E*DB))  corr=      0.3124

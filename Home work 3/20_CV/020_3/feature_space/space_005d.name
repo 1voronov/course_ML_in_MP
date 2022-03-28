@@ -1,0 +1,10 @@
+((H)^2*(DS-H))  corr=      0.5877
+((H)^2*(DB-H))  corr=      0.5845
+((H)^3*(DB-H))  corr=      0.5817
+((DS-H)/(F/H))  corr=      0.5812
+((DB-H)/(F/H))  corr=      0.5767
+((H+L)+(H-DB))  corr=      0.5744
+((DS-I)/(E*H))  corr=      0.5733
+((H*L)/(DB-I))  corr=      0.5730
+((H)^3*(DS-H))  corr=      0.5728
+((H+L)+(H-DS))  corr=      0.5714

@@ -1,0 +1,24 @@
+Predictions (y,pred,y-pred) by the model of dimension:     1
+   -0.1145000000E+00   -0.2144464800E+00    0.9994647997E-01
+   -0.8490000000E-01   -0.1946239725E+00    0.1097239725E+00
+Prediction RMSE and MaxAE:         0.1049491520        0.1097239725
+Predictions (y,pred,y-pred) by the model of dimension:     2
+   -0.1145000000E+00   -0.1996470100E+00    0.8514701004E-01
+   -0.8490000000E-01   -0.1822563913E+00    0.9735639127E-01
+Prediction RMSE and MaxAE:         0.0914556730        0.0973563913
+Predictions (y,pred,y-pred) by the model of dimension:     3
+   -0.1145000000E+00   -0.1817546024E+00    0.6725460242E-01
+   -0.8490000000E-01   -0.1639056322E+00    0.7900563215E-01
+Prediction RMSE and MaxAE:         0.0733657667        0.0790056322
+Predictions (y,pred,y-pred) by the model of dimension:     4
+   -0.1145000000E+00   -0.1947759986E+00    0.8027599856E-01
+   -0.8490000000E-01   -0.1760482737E+00    0.9114827367E-01
+Prediction RMSE and MaxAE:         0.0858843517        0.0911482737
+Predictions (y,pred,y-pred) by the model of dimension:     5
+   -0.1145000000E+00   -0.1915761820E+00    0.7707618204E-01
+   -0.8490000000E-01   -0.1728191337E+00    0.8791913367E-01
+Prediction RMSE and MaxAE:         0.0826756067        0.0879191337
+Predictions (y,pred,y-pred) by the model of dimension:     6
+   -0.1145000000E+00   -0.1964990242E+00    0.8199902418E-01
+   -0.8490000000E-01   -0.1758974683E+00    0.9099746833E-01
+Prediction RMSE and MaxAE:         0.0866151811        0.0909974683

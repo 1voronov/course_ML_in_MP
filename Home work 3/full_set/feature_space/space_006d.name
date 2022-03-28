@@ -1,0 +1,10 @@
+((E*R)*(R/H))  corr=      0.4185
+((E/H)*exp(R))  corr=      0.4044
+((E/H)*(R)^3)  corr=      0.4014
+((E/H)*log(R))  corr=      0.3991
+((E*R)/(C*H))  corr=      0.3972
+((E/F)/(H)^2)  corr=      0.3932
+((C*H)/(E*R))  corr=      0.3868
+((E*R)/(H*I))  corr=      0.3867
+((CN/ECN)/(C+H))  corr=      0.3819
+(exp(H)/(F)^2)  corr=      0.3761

@@ -1,0 +1,10 @@
+((C/E)/log(R))  corr=      0.5381
+((C/E)/(R)^3)  corr=      0.5311
+((C/E)/(R)^2)  corr=      0.4976
+(abs(C-H)/exp(F))  corr=      0.4835
+((C-H)/exp(F))  corr=      0.4828
+((F+H)/log(R))  corr=      0.4824
+((C/H)/exp(F))  corr=      0.4793
+((F/H)/exp(F))  corr=      0.4779
+((CN/ECN)/exp(F))  corr=      0.4778
+((C/L)/exp(F))  corr=      0.4774

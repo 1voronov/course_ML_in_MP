@@ -1,0 +1,10 @@
+((F/C)+(DS/I))  corr=      0.8410
+abs((F/C)-(DS/F))  corr=      0.8401
+((F/C)+(DB/I))  corr=      0.8364
+abs((F/C)-(DB/F))  corr=      0.8341
+((CN/F)/(R/E))  corr=      0.8339
+((F/C)*sqrt(R))  corr=      0.8330
+((H+DB)*(CN-ECN))  corr=      0.8327
+((F/C)*cbrt(R))  corr=      0.8324
+(abs(C-F)/(C+F))  corr=      0.8322
+((R)^2*abs(C-F))  corr=      0.8316

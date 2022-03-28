@@ -1,0 +1,10 @@
+((DS/DB))^2  corr=      0.8133
+abs((I/C)-(DS/DB))  corr=      0.8042
+abs((I/F)-(DS/DB))  corr=      0.8024
+abs((H/I)-(DS/DB))  corr=      0.7821
+abs((I/H)-(DS/DB))  corr=      0.7811
+abs((DB/I)-(DS/DB))  corr=      0.7790
+abs((L/I)-(DS/DB))  corr=      0.7780
+abs((DS/I)-(DS/DB))  corr=      0.7779
+abs((C/I)-(DS/DB))  corr=      0.7769
+abs((F/I)-(DS/DB))  corr=      0.7696

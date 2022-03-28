@@ -1,0 +1,10 @@
+((C-F)*(L)^3)  corr=      0.5318
+((L)^3*abs(C-F))  corr=      0.5186
+((C-F)/exp(L))  corr=      0.5167
+((L)^2*abs(C-F))  corr=      0.5060
+((C-F)*(L+DS))  corr=      0.5055
+((L+DB)/(H-C))  corr=      0.5049
+((C-F)*(L)^2)  corr=      0.5038
+((L+DS)*abs(C-F))  corr=      0.5015
+((L+DS)/(H-C))  corr=      0.4998
+((C-F)*(L+DB))  corr=      0.4981

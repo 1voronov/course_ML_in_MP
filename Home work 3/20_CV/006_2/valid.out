@@ -1,0 +1,53 @@
+=========================================
+SLURM_JOB_ID = 13362
+SLURM_JOB_NODELIST = node20-105
+SLURM_CPUS_ON_NODE = 1
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 12007
+==========================================
+ dimension:            1
+ feature: ((H+DS)*(CN-ECN))
+ intercept:  -0.58835999999999999     
+ coefficients:   -4.0475999999999998E-002
+ RMSE and MaxAE:   0.21309922350549507       0.29649155499999991     
+ dimension:            2
+ feature: abs((F/C)-(DS/F))
+ feature: abs((DB/DS)-(DS/DB))
+ intercept:    2.3390000000000001E-002
+ coefficients:  -0.24399000000000001       -2.5850000000000001E-002
+ RMSE and MaxAE:   0.10477820227499084       0.14815411953405466     
+ dimension:            3
+ feature: abs((F/C)-(DS/F))
+ feature: abs((DB/DS)-(DS/DB))
+ feature: abs((L-H)-abs(L-DS))
+ intercept:    6.5519999999999995E-002
+ coefficients:  -0.19353000000000001       -3.3472000000000002E-002  -5.4276999999999999E-002
+ RMSE and MaxAE:   0.12975725966390245       0.18053750741375993     
+ dimension:            4
+ feature: abs((F/C)-(DS/F))
+ feature: ((DS/DB))^2
+ feature: abs((L-H)-abs(L-DS))
+ feature: ((E/DS)/abs(C-L))
+ intercept:   0.10138000000000000     
+ coefficients:  -0.22828000000000001       -2.0249000000000001E-003  -4.8966999999999997E-002   9.8282999999999999E-003
+ RMSE and MaxAE:   0.11960298336590339       0.16902888777287972     
+ dimension:            5
+ feature: abs((F/C)-(DS/F))
+ feature: ((DS/DB))^2
+ feature: abs((L-H)-abs(L-DS))
+ feature: ((E/DS)/abs(C-L))
+ feature: ((L/DB)/(F+I))
+ intercept:   0.11137000000000000     
+ coefficients:  -0.22556000000000001       -1.8799000000000001E-003  -5.3022000000000000E-002   1.0945000000000000E-002   4.6116000000000001E-004
+ RMSE and MaxAE:   0.11710688697242411       0.16557301751015391     
+ dimension:            6
+ feature: ((H+DB)*(CN-ECN))
+ feature: abs((F/C)-(DB/F))
+ feature: abs((H/L)-(DS/DB))
+ feature: ((L)^3/(H+DS))
+ feature: ((C/DS)/abs(C-L))
+ feature: ((L+DB)/(C-H))
+ intercept:  -0.11738999999999999     
+ coefficients:   -2.0417999999999999E-002 -0.13405000000000000       -3.2279000000000002E-002  -1.2081000000000000E-002  -4.6571000000000000E-003  -1.3368000000000000E-003
+ RMSE and MaxAE:    3.7987293810861099E-002   4.5493036643507068E-002
+See details in the output files predict_Y.out and predict_X.out!

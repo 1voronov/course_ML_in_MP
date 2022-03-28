@@ -1,0 +1,10 @@
+(exp(C)/(H-L))  corr=      0.5064
+(abs(C-F)/(H-L))  corr=      0.4732
+((C-F)/(H-L))  corr=      0.4726
+(abs(F-DB)/(H-L))  corr=      0.4563
+((DB-F)/(H-L))  corr=      0.4563
+(abs(F-DS)/(H-L))  corr=      0.4558
+((DS-F)/(H-L))  corr=      0.4557
+((R/H)/(H-L))  corr=      0.4554
+((R/L)/(H-L))  corr=      0.4545
+(abs(L-DB)/(H-L))  corr=      0.4543

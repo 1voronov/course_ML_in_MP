@@ -1,0 +1,10 @@
+abs((I+DB)-abs(F-DS))  corr=      0.4701
+abs((I+DS)-abs(F-DS))  corr=      0.4503
+abs((C+L)-(F-DS))  corr=      0.4485
+abs((I+DB)-abs(F-DB))  corr=      0.4460
+abs((C+L)-(F-DB))  corr=      0.4435
+((C-F)*(DB-DS))  corr=      0.4388
+((F-L)*(DB-DS))  corr=      0.4294
+abs((I+DS)-abs(F-DB))  corr=      0.4252
+abs((F+I)-abs(DB-DS))  corr=      0.4240
+abs((F)^2-(I)^2)  corr=      0.4188

@@ -1,0 +1,10 @@
+((H)^-1/(DS)^3)  corr=      0.6501
+((E)^-1/(DS)^3)  corr=      0.6500
+((ECN/I)/(DS)^3)  corr=      0.6500
+(log(CN)/(DS)^3)  corr=      0.6500
+((F/ECN)/(DS)^3)  corr=      0.6499
+(exp(DB)/(DS)^3)  corr=      0.6499
+((I/H)/(DS)^3)  corr=      0.6498
+((CN/ECN)/(DS)^3)  corr=      0.6498
+((R/E)/(DS)^3)  corr=      0.6497
+((C/I)/(DS)^3)  corr=      0.6496

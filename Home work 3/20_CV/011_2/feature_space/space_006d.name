@@ -1,0 +1,10 @@
+((C)^-1/log(R))  corr=      0.3609
+((DB-L)*abs(DB-DS))  corr=      0.3606
+(C*log(R))  corr=      0.3590
+((DB-DS)/(L)^3)  corr=      0.3567
+((F*H)*log(R))  corr=      0.3556
+((I)^3/(DS-I))  corr=      0.3519
+((C*I)*(R/E))  corr=      0.3501
+((R)^3/(H-L))  corr=      0.3488
+((R/E)/(H-L))  corr=      0.3486
+((R/C)/(H-L))  corr=      0.3467

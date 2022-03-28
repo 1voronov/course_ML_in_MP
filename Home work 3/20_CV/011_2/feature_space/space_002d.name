@@ -1,0 +1,10 @@
+((DB-DS)/exp(ECN))  corr=      0.6990
+((DB-DS)/exp(CN))  corr=      0.6975
+abs((DB/DS)-(DS/DB))  corr=      0.6865
+((DB-DS)/(CN)^3)  corr=      0.6778
+((DS/DB))^2  corr=      0.6509
+abs((I/DS)-(L/DB))  corr=      0.6439
+abs((I/C)-(DS/DB))  corr=      0.6411
+abs((I/F)-(DS/DB))  corr=      0.6342
+((DB-DS)/(ECN)^3)  corr=      0.6288
+((L+DB)/exp(CN))  corr=      0.6236

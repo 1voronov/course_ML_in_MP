@@ -1,0 +1,10 @@
+((C*L)*abs(C-H))  corr=      0.4294
+((I*L)*abs(C-H))  corr=      0.4049
+((L/R)*abs(C-H))  corr=      0.4032
+(abs(C-H)*abs(DB-DS))  corr=      0.4004
+((H*L)*abs(C-H))  corr=      0.3965
+((L/CN)*abs(C-H))  corr=      0.3897
+(L*abs(C-H))  corr=      0.3847
+((C*H)*abs(C-H))  corr=      0.3799
+((L/ECN)*abs(C-H))  corr=      0.3797
+((F*L)*abs(C-H))  corr=      0.3796
