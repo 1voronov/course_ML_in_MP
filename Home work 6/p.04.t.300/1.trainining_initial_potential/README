@@ -1,0 +1,8 @@
+This folder contains the files needed for the potential initialization.
+
+Input:
+- the initial configuration for the potential initialization in `MLIP` internal format (train_init.cfg)
+- the script allows calculating minimal distance between atoms in initial configuration (calc_mindist.sh)
+- the script for the initial potential fitting (train_initial_potential.sh)
+
+The file 08.mtp should be copied from the folder `untrained_mtps/` containing in the `MLIP-2` repository `https://gitlab.com/ashapeev/mlip-2` to this folder. The appropriate minimal distance should be specified in this file

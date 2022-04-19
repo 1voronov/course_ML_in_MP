@@ -1,0 +1,356 @@
+=========================================
+SLURM_JOB_ID = 18732
+SLURM_JOB_NODELIST = node20-46
+SLURM_CPUS_ON_NODE = 16
+SLURM_JOB_PARTITION = RT
+SLURM_TASK_PID = 1142599
+==========================================
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142617] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142607] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142610] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[node20-46:1142616] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142614] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142606] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142608] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142620] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142615] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142613] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[node20-46:1142612] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142605] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142609] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142611] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[node20-46:1142621] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+[LOG_CAT_ML] You must specify a valid HCA device by setting:
+-x HCOLL_MAIN_IB=<dev_name:port> or -x UCX_NET_DEVICES=<dev_name:port>.
+If no device was specified for HCOLL (or the calling library), automatic device detection will be run.
+In case of unfounded HCA device please contact your system administrator.
+[node20-46:1142619] Error: coll_hcoll_module.c:301 - mca_coll_hcoll_comm_query() Hcol library init failed
+MTPR from 08.mtp, Database: train_init.cfg
+Random initialization of radial coefficients
+Rescaling...
+   scaling = 0.833333333333333, condition number = 18978.1297604344
+   scaling = 0.909090909090909, condition number = 25290.4185521584
+   scaling = 1, condition number = 27408.3415539127
+   scaling = 1.1, condition number = 36152.5073652249
+   scaling = 1.2, condition number = 39269.5686639981
+Rescaling to 0.833333333333333... done
+Rescaling...
+   scaling = 0.694444444444445, condition number = 13233.7568174906
+   scaling = 0.757575757575758, condition number = 17205.0696237738
+   scaling = 0.833333333333333, condition number = 18974.9022990238
+   scaling = 0.916666666666667, condition number = 24702.7220540671
+   scaling = 1, condition number = 27408.3415539127
+Rescaling to 0.694444444444445... done
+Rescaling...
+   scaling = 0.578703703703704, condition number = 10381.3251865336
+   scaling = 0.631313131313131, condition number = 12704.1934440628
+   scaling = 0.694444444444445, condition number = 13233.7568174906
+   scaling = 0.763888888888889, condition number = 15913.8347626585
+   scaling = 0.833333333333333, condition number = 18974.9022990238
+Rescaling to 0.578703703703704... done
+Rescaling...
+   scaling = 0.482253086419753, condition number = 7021.58764084655
+   scaling = 0.526094276094276, condition number = 8733.0556200284
+   scaling = 0.578703703703704, condition number = 10381.3251865336
+   scaling = 0.636574074074074, condition number = 12902.0669137771
+   scaling = 0.694444444444445, condition number = 13233.7568174906
+Rescaling to 0.482253086419753... done
+Rescaling...
+   scaling = 0.401877572016461, condition number = 4708.70568518769
+   scaling = 0.43841189674523, condition number = 5805.69150086593
+   scaling = 0.482253086419753, condition number = 7021.58764084655
+   scaling = 0.530478395061729, condition number = 7694.86740949707
+   scaling = 0.578703703703704, condition number = 10381.3251865336
+Rescaling to 0.401877572016461... done
+Rescaling...
+   scaling = 0.334897976680384, condition number = 3383.94783029028
+   scaling = 0.365343247287692, condition number = 4235.37732876877
+   scaling = 0.401877572016461, condition number = 4708.70568518769
+   scaling = 0.442065329218107, condition number = 5374.04530118056
+   scaling = 0.482253086419753, condition number = 7055.9986494518
+Rescaling to 0.334897976680384... done
+Rescaling...
+   scaling = 0.279081647233653, condition number = 2337.70704325158
+   scaling = 0.304452706073077, condition number = 2672.23572985368
+   scaling = 0.334897976680384, condition number = 3383.94783029028
+   scaling = 0.368387774348423, condition number = 3705.74229265737
+   scaling = 0.401877572016461, condition number = 4708.70568518769
+Rescaling to 0.279081647233653... done
+Rescaling...
+   scaling = 0.232568039361378, condition number = 1643.88063066095
+   scaling = 0.25371058839423, condition number = 1923.1602356799
+   scaling = 0.279081647233653, condition number = 2337.70704325158
+   scaling = 0.306989811957019, condition number = 2575.13042121605
+   scaling = 0.334897976680384, condition number = 3383.94783029028
+Rescaling to 0.232568039361378... done
+Rescaling...
+   scaling = 0.193806699467815, condition number = 1134.42331631837
+   scaling = 0.211425490328525, condition number = 1408.61604303335
+   scaling = 0.232568039361378, condition number = 1643.88063066095
+   scaling = 0.255824843297516, condition number = 2091.45061159938
+   scaling = 0.279081647233653, condition number = 2337.70704325158
+Rescaling to 0.193806699467815... done
+Rescaling...
+   scaling = 0.161505582889846, condition number = 822.868354023357
+   scaling = 0.176187908607104, condition number = 928.020436755614
+   scaling = 0.193806699467815, condition number = 1134.42331631837
+   scaling = 0.213187369414596, condition number = 1491.97399074583
+   scaling = 0.232568039361378, condition number = 1643.88063066095
+Rescaling to 0.161505582889846... done
+Rescaling...
+   scaling = 0.134587985741538, condition number = 545.029395858425
+   scaling = 0.146823257172587, condition number = 709.71156409019
+   scaling = 0.161505582889846, condition number = 822.868354023357
+   scaling = 0.17765614117883, condition number = 987.503444062996
+   scaling = 0.193806699467815, condition number = 1108.89022699765
+Rescaling to 0.134587985741538... done
+Rescaling...
+   scaling = 0.112156654784615, condition number = 387.421005180558
+   scaling = 0.122352714310489, condition number = 429.218380951418
+   scaling = 0.134587985741538, condition number = 545.029395858425
+   scaling = 0.148046784315692, condition number = 641.056286081239
+   scaling = 0.161505582889846, condition number = 822.868354023357
+Rescaling to 0.112156654784615... done
+Rescaling...
+   scaling = 0.0934638789871793, condition number = 263.997688838513
+   scaling = 0.101960595258741, condition number = 314.745276306553
+   scaling = 0.112156654784615, condition number = 387.421005180558
+   scaling = 0.123372320263077, condition number = 466.203183116181
+   scaling = 0.134587985741538, condition number = 545.029395858425
+Rescaling to 0.0934638789871793... done
+Rescaling...
+   scaling = 0.0778865658226494, condition number = 176.567632485937
+   scaling = 0.0849671627156175, condition number = 224.724236388487
+   scaling = 0.0934638789871793, condition number = 263.997688838513
+   scaling = 0.102810266885897, condition number = 318.348854539438
+   scaling = 0.112156654784615, condition number = 387.421005180558
+Rescaling to 0.0778865658226494... done
+Rescaling...
+   scaling = 0.0649054715188745, condition number = 116.149279146655
+   scaling = 0.0708059689296813, condition number = 138.477665980168
+   scaling = 0.0778865658226494, condition number = 176.567632485937
+   scaling = 0.0856752224049144, condition number = 207.753053230095
+   scaling = 0.0934638789871793, condition number = 262.934079112658
+Rescaling to 0.0649054715188745... done
+Rescaling...
+   scaling = 0.0540878929323954, condition number = 80.7788963564584
+   scaling = 0.0590049741080677, condition number = 96.0443596804785
+   scaling = 0.0649054715188745, condition number = 116.149279146655
+   scaling = 0.071396018670762, condition number = 139.974337086616
+   scaling = 0.0778865658226494, condition number = 176.062630797304
+Rescaling to 0.0540878929323954... done
+Rescaling...
+   scaling = 0.0450732441103295, condition number = 56.4977239406423
+   scaling = 0.0491708117567231, condition number = 66.7794038505807
+   scaling = 0.0540878929323954, condition number = 80.7788963564584
+   scaling = 0.059496682225635, condition number = 97.2157572924642
+   scaling = 0.0649054715188745, condition number = 116.149279146655
+Rescaling to 0.0450732441103295... done
+Rescaling...
+   scaling = 0.0375610367586079, condition number = 39.430139585254
+   scaling = 0.0409756764639359, condition number = 46.7657308428791
+   scaling = 0.0450732441103295, condition number = 56.4977239406423
+   scaling = 0.0495805685213625, condition number = 68.2316567486326
+   scaling = 0.0540878929323954, condition number = 80.7613963174089
+Rescaling to 0.0375610367586079... done
+Rescaling...
+   scaling = 0.0313008639655066, condition number = 24.098448848825
+   scaling = 0.03414639705328, condition number = 32.7072016970237
+   scaling = 0.0375610367586079, condition number = 39.430139585254
+   scaling = 0.0413171404344687, condition number = 47.5618420069345
+   scaling = 0.0450732441103295, condition number = 56.4977239406423
+Rescaling to 0.0313008639655066... done
+Rescaling...
+   scaling = 0.0260840533045889, condition number = 12.0048706957563
+   scaling = 0.0284553308777333, condition number = 16.7424816574312
+   scaling = 0.0313008639655066, condition number = 24.098448848825
+   scaling = 0.0344309503620573, condition number = 33.3804211193703
+   scaling = 0.0375610367586079, condition number = 39.430139585254
+Rescaling to 0.0260840533045889... done
+Rescaling...
+   scaling = 0.0217367110871574, condition number = 6.17510447276226
+   scaling = 0.0237127757314444, condition number = 8.37665915856191
+   scaling = 0.0260840533045889, condition number = 12.0048706957563
+   scaling = 0.0286924586350477, condition number = 17.2005716988593
+   scaling = 0.0313008639655066, condition number = 24.098448848825
+Rescaling to 0.0217367110871574... done
+Rescaling...
+   scaling = 0.0181139259059645, condition number = 4.50959725325975
+   scaling = 0.0197606464428703, condition number = 5.03104598024085
+   scaling = 0.0217367110871574, condition number = 6.17510447276226
+   scaling = 0.0239103821958731, condition number = 8.6774354050446
+   scaling = 0.0260840533045889, condition number = 12.0048706957563
+Rescaling to 0.0181139259059645... done
+Rescaling...
+   scaling = 0.0150949382549704, condition number = 3.85659447663197
+   scaling = 0.0164672053690586, condition number = 4.10331999498625
+   scaling = 0.0181139259059645, condition number = 4.50959725325975
+   scaling = 0.0199253184965609, condition number = 5.07926216816999
+   scaling = 0.0217367110871574, condition number = 6.16626178136429
+Rescaling to 0.0150949382549704... done
+Rescaling...
+   scaling = 0.0125791152124753, condition number = 3.96527380851921
+   scaling = 0.0137226711408822, condition number = 3.85288418072976
+   scaling = 0.0150949382549704, condition number = 3.85659447663197
+   scaling = 0.0166044320804674, condition number = 4.13922626662476
+   scaling = 0.0181139259059645, condition number = 4.50959725325975
+Rescaling to 0.0137226711408822... done
+Rescaling...
+   scaling = 0.0114355592840685, condition number = 4.06796309949968
+   scaling = 0.0124751555826202, condition number = 3.98052061946046
+   scaling = 0.0137226711408822, condition number = 3.85288418072976
+   scaling = 0.0150949382549704, condition number = 3.85659447663197
+   scaling = 0.0164672053690586, condition number = 4.10331999498625
+Rescaling to 0.0137226711408822... done
+Pre-training started
+MTPR parallel training started
+BFGS iter 0: f=8.81476e-09
+BFGS iter 1: f=8.81408e-09
+BFGS iter 2: f=8.81086e-09
+BFGS iter 3: f=8.80924e-09
+BFGS iter 4: f=8.80863e-09
+BFGS iter 5: f=8.80735e-09
+BFGS iter 6: f=8.78723e-09
+BFGS iter 7: f=8.68512e-09
+BFGS iter 8: f=8.54394e-09
+BFGS iter 9: f=8.47785e-09
+BFGS iter 10: f=8.47354e-09
+BFGS iter 11: f=8.47339e-09
+BFGS ended due to small decr. for 1 iteration
+BFGS iter 12: f=8.47332e-09
+MTPR training ended
+Rescaling...
+   scaling = 0.0114355592840685, condition number = 4.09182611072418
+   scaling = 0.0124751555826202, condition number = 4.02189910078036
+   scaling = 0.0137226711408822, condition number = 3.89078012609007
+   scaling = 0.0150949382549704, condition number = 3.96563560240199
+   scaling = 0.0164672053690586, condition number = 4.25791959040887
+Rescaling to 0.0137226711408822... done
+Pre-training ended
+BFGS iterations count set to 1000
+BFGS convergence tolerance set to 0.001
+Energy weight: 1
+Force weight: 0.01
+Stress weight: 0.001
+MTPR parallel training started
+BFGS iter 0: f=8.16177e-09
+BFGS iter 1: f=8.16118e-09
+BFGS iter 2: f=8.16044e-09
+BFGS iter 3: f=8.15645e-09
+BFGS iter 4: f=8.15579e-09
+BFGS iter 5: f=8.15478e-09
+BFGS iter 6: f=8.14724e-09
+BFGS iter 7: f=7.9003e-09
+BFGS iter 8: f=7.85925e-09
+BFGS iter 9: f=7.85867e-09
+BFGS ended due to small decr. for 1 iteration
+BFGS iter 10: f=7.85861e-09
+MTPR training ended
+Rescaling...
+   scaling = 0.0114355592840685, condition number = 4.11627969965505
+   scaling = 0.0124751555826202, condition number = 4.04434358136442
+   scaling = 0.0137226711408822, condition number = 3.96853635487454
+   scaling = 0.0150949382549704, condition number = 4.07165563021311
+   scaling = 0.0164672053690586, condition number = 4.37131638833631
+Rescaling to 0.0137226711408822... done
+
+		* * * TRAIN ERRORS * * *
+
+_________________Errors report_________________
+Energy:
+	Errors checked for 1 configurations
+	Maximal absolute difference = 1.08145e-11
+	Average absolute difference = 1.08145e-11
+	RMS     absolute difference = 1.08145e-11
+
+Energy per atom:
+	Errors checked for 1 configurations
+	Maximal absolute difference = 6.75904e-13
+	Average absolute difference = 6.75904e-13
+	RMS     absolute difference = 6.75904e-13
+
+Forces:
+	Errors checked for 16 atoms
+	Maximal absolute difference = 0.000411757
+	Average absolute difference = 6.78393e-05
+	RMS     absolute difference = 0.000125593
+	Max(ForceDiff) / Max(Force) = 0.0357418
+	RMS(ForceDiff) / RMS(Force) = 0.0279959
+
+Stresses (in eV):
+	Errors checked for 0 configurations
+	Maximal absolute difference = 0
+	Average absolute difference = 0
+	RMS     absolute difference = 0
+	Max(StresDiff) / Max(Stres) = 0
+	RMS(StresDiff) / RMS(Stres) = 0
+
+Stresses (in GPa):
+	Errors checked for 0 configurations
+	Maximal absolute difference = 0
+	Average absolute difference = 0
+	RMS     absolute difference = 0
+	Max(StresDiff) / Max(Stres) = 0
+	RMS(StresDiff) / RMS(Stres) = 0
+_______________________________________________
+

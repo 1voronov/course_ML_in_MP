@@ -1,0 +1,183 @@
+LAMMPS (29 Sep 2021 - Update 2)
+variable        Tequil index 1300.0
+variable        seed index 826626413
+
+units           metal
+atom_style	atomic
+boundary        p p p
+
+read_data        input.pos
+Reading data file ...
+  triclinic box = (0.0000000 0.0000000 0.0000000) to (6.6000000 6.6000000 6.6000000) with tilt (0.0000000 0.0000000 0.0000000)
+  1 by 1 by 1 MPI processor grid
+  reading atoms ...
+  16 atoms
+  read_data CPU = 0.000 seconds
+
+mass            * 92.90638
+
+pair_style mlip mlip.ini
+pair_coeff * *
+
+neighbor	0.5 bin
+neigh_modify    every 1 delay 5 check yes
+
+timestep	0.001
+
+fix		1 all nve
+fix		2 all langevin ${Tequil} ${Tequil} 0.1 ${seed} zero yes
+fix		2 all langevin 1300.0 ${Tequil} 0.1 ${seed} zero yes
+fix		2 all langevin 1300.0 1300.0 0.1 ${seed} zero yes
+fix		2 all langevin 1300.0 1300.0 0.1 826626413 zero yes
+
+thermo_style    custom step temp
+thermo 1000
+
+dump   1 all custom 1000 dump.nb id type x y z fx fy fz
+
+run             100000
+Neighbor list info ...
+  update every 1 steps, delay 5 steps, check yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 5.5
+  ghost atom cutoff = 5.5
+  binsize = 2.75, bins = 3 3 3
+  1 neighbor lists, perpetual/occasional/extra = 1 0 0
+  (1) pair mlip, perpetual
+      attributes: full, newton on
+      pair build: full/bin/atomonly
+      stencil: full/bin/3d
+      bin: standard
+Per MPI rank memory allocation (min/avg/max) = 4.312 | 4.312 | 4.312 Mbytes
+Step Temp 
+       0            0 
+    1000    1186.0847 
+    2000    1249.1788 
+    3000    876.45785 
+    4000    1496.1837 
+    5000    1365.1319 
+    6000    1245.8504 
+    7000    1442.2079 
+    8000    792.78157 
+    9000    1256.3189 
+   10000    1498.4499 
+   11000    1346.8449 
+   12000      1218.17 
+   13000    1194.9697 
+   14000    1635.8587 
+   15000    1508.4523 
+   16000    1892.6634 
+   17000    1189.6421 
+   18000    1406.7319 
+   19000    1013.5509 
+   20000    1250.3971 
+   21000    882.74349 
+   22000    1517.2286 
+   23000    1358.5475 
+   24000    1212.6499 
+   25000    1370.0049 
+   26000    1327.0991 
+   27000    758.54059 
+   28000    1155.7166 
+   29000    1309.1013 
+   30000    1658.5791 
+   31000    1077.8221 
+   32000     1971.257 
+   33000    1325.8419 
+   34000    1735.3457 
+   35000    1161.7526 
+   36000    1151.8082 
+   37000    837.22543 
+   38000    1555.3178 
+   39000    1990.8037 
+   40000    1371.0681 
+   41000     1339.438 
+   42000    1646.8682 
+   43000    951.62968 
+   44000    1133.2689 
+   45000    1687.1318 
+   46000    974.08994 
+   47000    1967.5002 
+   48000    996.59698 
+   49000    1449.8336 
+   50000    926.29774 
+   51000     927.2666 
+   52000    1674.0445 
+   53000    1349.4205 
+   54000    1215.3492 
+   55000    721.06255 
+   56000    799.41843 
+   57000    1171.0849 
+   58000    1617.7603 
+   59000    1092.3569 
+   60000    1391.0053 
+   61000    2045.5836 
+   62000    1380.9615 
+   63000    1321.1314 
+   64000    1186.4489 
+   65000    1599.0131 
+   66000    1538.6742 
+   67000    1458.6909 
+   68000    1355.0504 
+   69000    1466.2567 
+   70000    1425.3991 
+   71000    1560.8608 
+   72000    1116.1454 
+   73000    1006.4938 
+   74000    1274.6983 
+   75000    942.40858 
+   76000    1336.0899 
+   77000    1555.8049 
+   78000    1277.1071 
+   79000    1013.0227 
+   80000    1641.9192 
+   81000    1759.6097 
+   82000    1168.7085 
+   83000    1340.0289 
+   84000    1081.4227 
+   85000    1233.6954 
+   86000    1137.9625 
+   87000    823.49887 
+   88000     1470.981 
+   89000    1323.6846 
+   90000    1171.5288 
+   91000     1270.857 
+   92000    1550.4295 
+   93000    1320.7903 
+   94000    1321.2765 
+   95000    1057.0265 
+   96000     1263.311 
+   97000    1307.7634 
+   98000    1265.6536 
+   99000    1132.5534 
+  100000    940.62131 
+Loop time of 176.885 on 1 procs for 100000 steps with 16 atoms
+
+Performance: 48.845 ns/day, 0.491 hours/ns, 565.338 timesteps/s
+99.7% CPU use with 1 MPI tasks x no OpenMP threads
+
+MPI task timing breakdown:
+Section |  min time  |  avg time  |  max time  |%varavg| %total
+---------------------------------------------------------------
+Pair    | 176.22     | 176.22     | 176.22     |   0.0 | 99.62
+Neigh   | 0.14663    | 0.14663    | 0.14663    |   0.0 |  0.08
+Comm    | 0.23515    | 0.23515    | 0.23515    |   0.0 |  0.13
+Output  | 0.0053296  | 0.0053296  | 0.0053296  |   0.0 |  0.00
+Modify  | 0.20043    | 0.20043    | 0.20043    |   0.0 |  0.11
+Other   |            | 0.07987    |            |       |  0.05
+
+Nlocal:        16.0000 ave          16 max          16 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:        325.000 ave         325 max         325 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:         0.00000 ave           0 max           0 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+FullNghs:      632.000 ave         632 max         632 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 632
+Ave neighs/atom = 39.500000
+Neighbor list builds = 3491
+Dangerous builds = 0
+reset_timestep  0
+Total wall time: 0:02:56
